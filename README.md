@@ -8,7 +8,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=750&lines=LegalTech+T%C3%BCrkiye+LAB+Kurucusu;Dijital+D%C3%B6n%C3%BC%C5%9F%C3%BCm+Stratejisti;Avukatlar%C4%B1+ve+Butik+Ofisleri+Hukukun+Dijital+Gelece%C4%9Fine+Haz%C4%B1rl%C4%B1yorum." alt="Typing SVG" />
 </a>
-
 <br/><br/>
 
 <!-- Ekosistem Giriş Kapısı -->
