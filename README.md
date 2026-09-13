@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Görseli -->
-<img src="./banner.png" alt="TitanHero - Systems for the Digital Era of Law" width="100%" />
+<img src="./TitanHero%20-%20Systems%20for%20the%20Digital%20Era%20of%20Law.jpg" alt="TitanHero - Systems for the Digital Era of Law" width="100%" />
 
 <br/><br/>
 
