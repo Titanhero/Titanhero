@@ -1,19 +1,23 @@
 <div align="center">
 
-<!-- Banner Görseli -->
+<!-- Üst Banner Görseli -->
 <img src="./TitanHero%20-%20Systems%20for%20the%20Digital%20Era%20of%20Law.jpg" alt="TitanHero - Systems for the Digital Era of Law" width="100%" />
 
 <br/><br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=LegalTech+T%C3%BCrkiye+LAB;Hukukta+Bilin%C3%A7li+Dijital+D%C3%B6n%C3%BC%C5%9F%C3%BCm+Rehberi;Sistem+Mimarileri+%26+Ajan+Otomasyonlar%C4%B1" alt="Typing SVG" />
-</p>
+<!-- Canlı LTL Sistem Konsolu -->
+<img src="./ltl-status.svg" width="100%" alt="LTL Telemetry Console" />
 
+<br/><br/>
+
+<!-- Ekosistem Giriş Kapısı -->
 <a href="https://lab.legaltechtr.com/links" target="_blank">
   <b>🌐 Ekosistem & Tüm Bağlantılar →</b>
 </a>
 
 </div>
+
+---
 
 ### 📖 Hakkında
 
@@ -24,11 +28,16 @@ Bu boşluğu doldurmak için **LegalTech Türkiye LAB**'ı kurdum. Tek başına 
 Kendi dijital yolculuğuna nereden başlayacağını bilmiyorsan, başlamak için doğru yer burası. [LTL Gündemi](https://www.legaltechtr.com/)'ne ücretsiz abone olabilir, dijital dönüşüm yolculuğuna [LegalTech Türkiye LAB](https://lab.legaltechtr.com/)'da başlayabilirsin.
 
 ---
+
+### 🏛️ Sistem Mimarisi & Ajan Pipeline Hattı
+
 <div align="center">
-  <img src="./blueprint-grid.svg" width="100%" alt="Blueprint Architecture Flow" />
+  <img src="./system-pipeline.svg" width="100%" alt="LegalTech Türkiye LAB Pipeline Architecture" />
 </div>
 
-### 🚀 Öne Çıkan İnisiyatifler & Sistemler
+<br/>
+
+### 🚀 Öne Çıkan İnisiyatifler
 
 <table>
   <tr>
@@ -76,6 +85,8 @@ Kendi dijital yolculuğuna nereden başlayacağını bilmiyorsan, başlamak içi
 
 <br/>
 
+### 🏛️ Founder & Digital Transformation Strategist
+
 I guide solo practitioners and boutique law firms through conscious, step-by-step digital transformation at **LegalTech Türkiye LAB**.
 
 - ⚖️ **LegalTech Türkiye LAB:** Independent benchmark platform, AI tool assessments, and actionable digital literacy courses tailored for legal workflows.
@@ -86,7 +97,7 @@ I guide solo practitioners and boutique law firms through conscious, step-by-ste
 
 ---
 
-### 📊 Aktivite & Üretim
+### 📊 GitHub & Üretim İstatistikleri
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Titanhero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="145" alt="Titanhero Stats" />
