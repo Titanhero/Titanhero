@@ -24,6 +24,9 @@ Bu boşluğu doldurmak için **LegalTech Türkiye LAB**'ı kurdum. Tek başına 
 Kendi dijital yolculuğuna nereden başlayacağını bilmiyorsan, başlamak için doğru yer burası. [LTL Gündemi](https://www.legaltechtr.com/)'ne ücretsiz abone olabilir, dijital dönüşüm yolculuğuna [LegalTech Türkiye LAB](https://lab.legaltechtr.com/)'da başlayabilirsin.
 
 ---
+<div align="center">
+  <img src="./blueprint-grid.svg" width="100%" alt="Blueprint Architecture Flow" />
+</div>
 
 ### 🚀 Öne Çıkan İnisiyatifler & Sistemler
 
