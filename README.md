@@ -1,35 +1,45 @@
-<!-- Üst Dalgalı Modern Banner -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=180&section=header&text=Halil%20Ibrahim%20Ordulu&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LegalTech%20Strategist%20%7C%20System%20Architect&descFontSize=16&descColor=94a3b8&descAlignY=60" width="100%" />
 
-  <!-- Canlı Daktilo Satırı -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=LegalTech+T%C3%BCrkiye+LAB+Kurucusu;Hukukta+Bilin%C3%A7li+Dijital+D%C3%B6n%C3%BC%C5%9F%C3%BCm;Yapay+Zeka+ve+Sistem+Mimarileri;Disiplinleraras%C4%B1+Tasar%C4%B1m" alt="Typing SVG" />
-  </a>
+# ⚖️ Halil İbrahim Ordulu 🚀
 
-  <br/><br/>
+<p align="center">
+  <b>Founder & Dijital Dönüşüm Stratejisti</b>
+</p>
 
-  <!-- Hızlı Erişim Butonları -->
-  <a href="https://hub.legaltechtr.com/">
-    <img src="https://img.shields.io/badge/HUB-LegalTech_TR-0F172A?style=flat-square&logo=gitbook&logoColor=white" />
+<!-- Dinamik Başlık Animasyonu -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=LegalTech+T%C3%BCrkiye+LAB+Kurucusu;Dijital+D%C3%B6n%C3%BC%C5%9F%C3%BCm+Stratejisti;Avukatlar%C4%B1+ve+Butik+Ofisleri+Hukukun+Dijital+Gelece%C4%9Fine+Haz%C4%B1rl%C4%B1yorum." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Ekosistem & Profil Rozetleri -->
+<p align="center">
+  <a href="https://lab.legaltechtr.com/links" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_EKOSİSTEM-Tüm_Bağlantılar-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ekosistem" />
   </a>
-  <a href="https://lab.legaltechtr.com/links">
-    <img src="https://img.shields.io/badge/LAB-Ekosistem-0284C7?style=flat-square&logo=googlechrome&logoColor=white" />
+  <a href="https://linkedin.com/in/halil-ibrahim-ordulu-8180631b7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Halil_İbrahim_Ordulu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.legaltechtr.com/">
-    <img src="https://img.shields.io/badge/BÜLTEN-LTL_Gündemi-E11D48?style=flat-square&logo=ghost&logoColor=white" />
+  <a href="https://x.com/Girisimcibey007" target="_blank">
+    <img src="https://img.shields.io/badge/X-@Girisimcibey007-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://linkedin.com/in/halil-ibrahim-ordulu-8180631b7">
-    <img src="https://img.shields.io/badge/LinkedIn-Profil-0284C7?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://youtube.com/@legaltechturkiye" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-LegalTech_Türkiye-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://x.com/Girisimcibey007">
-    <img src="https://img.shields.io/badge/X-@Girisimcibey007-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
+</p>
+
 </div>
 
-<br/>
+---
 
-> *"Hukuk teknolojilerinde gerçek gelişim; salt teknoloji tüketimiyle değil, dijital yetkinliğe sahip uygulayıcılar ve ihtiyacı doğru teşhis eden sistem mimarlarıyla mümkündür."*
+### 📖 Hakkında
+
+Bireysel avukatlar ve butik ofisler dijitalleşmesi gerektiğini biliyor. Ama nereden başlayacağını, neye güveneceğini, hangi aracın gerçekten işe yarayıp hangisinin sadece trend olduğunu bilmiyor. Pratiğe taşınamayan, disiplinlerarası bakıştan uzak, hukuk alanına özgü bir yaklaşımdan yoksun kalıyorlar. Parçalı bilgi, yanlış araçlar ve rehbersizlik hem zaman hem kaynak kaybına dönüşüyor.
+
+Bu boşluğu doldurmak için **LegalTech Türkiye LAB**'ı kurdum. Tek başına çalışan bir avukat ya da küçük bir ofis yönetiyor olabilirsin. Nitelikli kurslar, sistematik danışmanlıklar, özelleştirilmiş içerikler ve dinamik bir sistemle kendi hızında bilinçli dijital dönüşüm yolculuğunu başlatabilmen için buradayız. Kendi kararlarını alabilecek dijital yetkinliğe ulaşmanda bağımsız, objektif ve tamamen üyelerinin gücüyle büyüyen bir pusula görevi görüyoruz.
+
+Kendi dijital yolculuğuna nereden başlayacağını bilmiyorsan, başlamak için doğru yer burada. [LTL Gündemi](https://www.legaltechtr.com/)'ne ücretsiz abone olabilir, dijital dönüşüm yolculuğuna [LegalTech Türkiye LAB](https://lab.legaltechtr.com/)'da başlayabilirsin.
 
 ---
 
@@ -39,63 +49,67 @@
   <tr>
     <td width="50%" valign="top">
       <h4>⚖️ LegalTech Türkiye LAB</h4>
-      <p>Hukuk büroları ve profesyoneller için bağımsız yapay zeka benchmark testleri, yazılım analizleri ve bilinçli dijitalleşme rehberleri.</p>
-      <a href="https://hub.legaltechtr.com/"><b>hub.legaltechtr.com →</b></a>
+      <p><b>Avukatlar İçin Bağımsız Dijital Dönüşüm Rehberi</b></p>
+      <p>Kurslarla yöntemi öğren, bağımsız verilerle doğru aracı ve yapay zeka modelini bul, bülten ve forumla süreci sürdür. Avukatların dijital yetkinlik kazandığı, kendi dijitalleşme adımlarını attığı bütüncül bir yolculuk sunan laboratuvarız.</p>
+      <a href="https://lab.legaltechtr.com/"><b>lab.legaltechtr.com →</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>📰 LTL Gündemi</h4>
-      <p>Hukukun dijital dönüşümünü teknik jargona boğmadan, küresel trendler ve stratejik derinlikle ele alan bağımsız yayın organı.</p>
+      <p><b>Bilgi Takip Merkezi</b></p>
+      <p>Hukuk-teknoloji-inovasyon kesişimini multi-disipliner bir bakışla aktararak avukatların dijitalleşme adımlarını bilinçlendiren düzenli bilgi takip merkezidir.</p>
       <a href="https://www.legaltechtr.com/"><b>legaltechtr.com →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Agentic Workflows & Otomasyon</h4>
-      <p>Tekrarlayan operasyonel ve hukuki iş süreçlerini optimize eden özel ajan mimarileri, veri pipeline'ları ve edge çözümleri.</p>
-      <sub>Claude Code • OpenAI API • ACP</sub>
+      <h4>🤖 LAB Sistem Mimarisi & Otomasyonlar</h4>
+      <p>LTL Gündemi ve LegalTech Türkiye LAB ekosisteminin arkasında çalışan operasyonel ajanlar (agentic workflows), içerik pipeline'ları, veri doğrulama sistemleri ve otomasyon altyapıları.</p>
+      <sub>Claude Code • OpenAI API • ACP • Edge Pipelines</sub>
     </td>
     <td width="50%" valign="top">
       <h4>🧠 Kişisel Bellek & Sistem Tasarımı</h4>
-      <p>Obsidian tabanlı bellek sarayı metodolojisiyle yapılandırılmış bilgi yönetimi ve içerik üretim motoru.</p>
-      <sub>Obsidian • Ghost • Cloudflare</sub>
+      <p><b>Hermes</b> bellek sarayı metodolojisi, proje arşivleri ve kurucu dokümantasyonlarıyla entegre çalışan; üretilen tüm çıktıların LAB ve LTL ekosistemine beslendiği bilgi yönetimi mimarisi.</p>
+      <sub>Hermes Core • Obsidian • Proje Dosyaları</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Sistem Mimarisi & Araç Kutusu
+### 🛠️ Altyapı, Bellek & Geliştirme Kültürü
 
-<p align="left">
-  <b>Yapay Zeka & Geliştirme:</b><br/>
-  <code>Claude Code</code> <code>OpenAI API</code> <code>Cursor</code> <code>Zed</code> <code>Agent Client Protocols</code>
-</p>
+<div align="left">
 
-<p align="left">
-  <b>Altyapı & Dağıtım:</b><br/>
-  <code>Cloudflare Workers/Pages</code> <code>Coolify</code> <code>Hetzner</code> <code>Docker</code> <code>Resend</code>
-</p>
+| Katman | Araçlar & Mimari Tercihler |
+| :--- | :--- |
+| **Yapay Zeka & Ajan Sistemleri** | `Claude Code` `OpenAI API` `Agent Client Protocols` `Cursor` `Zed` |
+| **Sistem & Dağıtım Altyapısı** | `Cloudflare Workers/Pages` `Coolify` `Hetzner` `Docker` `Resend` |
+| **Bilgi Mimarisi & Dağıtım** | `Hermes (Memory Palace)` `Ghost CMS` `Obsidian` |
+
+</div>
 
 ---
 
 <details>
-<summary>🌐 <b>Read in English (Overview)</b></summary>
+<summary>🌐 <b>Read in English (Executive Summary)</b></summary>
 
 <br/>
 
-I design systems, AI-driven workflows, and digital literacy frameworks at the intersection of law and technology.
+### 🏛️ Founder & Digital Transformation Strategist
 
-- **LegalTech Türkiye LAB:** Independent benchmarking and strategic transformation roadmaps for legal practitioners.
-- **Architectural Philosophy:** Technology as an enabler for human competence rather than sheer consumption.
-- **Focus:** Agentic automation, self-hosted deployment architectures, and personal knowledge systems.
+I guide solo practitioners and boutique law firms through conscious, step-by-step digital transformation at **LegalTech Türkiye LAB**.
+
+- ⚖️ **LegalTech Türkiye LAB:** Independent benchmark platform, AI tool assessments, and actionable digital literacy courses tailored for legal workflows.
+- 📰 **LTL Gündemi:** Curated intelligence and strategic insights tracking the convergence of law, technology, and innovation.
+- 🧠 **Architectural Backbone:** Agentic automation workflows, robust edge infrastructure, and the **Hermes** structured memory palace methodology powering the entire ecosystem.
 
 </details>
 
 ---
 
-### 📊 Aktivite & Üretim
+### 📊 GitHub & Üretim İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Titanhero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="145" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titanhero&layout=compact&theme=tokyonight&hide_border=true" height="145" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Titanhero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="145" alt="Titanhero Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titanhero&layout=compact&theme=tokyonight&hide_border=true" height="145" alt="Titanhero Languages" />
 </div>
