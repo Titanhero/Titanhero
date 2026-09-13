@@ -1,6 +1,6 @@
 <!-- Üst Dalgalı Modern Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=180&section=header&text=Halil%20İbrahim%20Ordulu&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LegalTech%20Strategist%20%26%20System%20Architect&descFontSize=16&descColor=94a3b8&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=180&section=header&text=Halil%20Ibrahim%20Ordulu&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LegalTech%20Strategist%20%7C%20System%20Architect&descFontSize=16&descColor=94a3b8&descAlignY=60" width="100%" />
 
   <!-- Canlı Daktilo Satırı -->
   <a href="https://git.io/typing-svg">
