@@ -1,32 +1,18 @@
 <div align="center">
 
-# ⚖️ Halil İbrahim Ordulu 🚀
-
-<p align="center">
-  <b>Founder & Dijital Dönüşüm Stratejisti</b>
-</p>
-
-<!-- Dinamik Başlık Animasyonu -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=LegalTech+T%C3%BCrkiye+LAB+Kurucusu;Dijital+D%C3%B6n%C3%BC%C5%9F%C3%BCm+Stratejisti;Avukatlar%C4%B1+ve+Butik+Ofisleri+Hukukun+Dijital+Gelece%C4%9Fine+Haz%C4%B1rl%C4%B1yorum." alt="Typing SVG" />
-</a>
+<!-- Banner Görseli -->
+<img src="./banner.png" alt="TitanHero - Systems for the Digital Era of Law" width="100%" />
 
 <br/><br/>
 
-<!-- Ekosistem & Profil Rozetleri -->
+<!-- Sade Metin Bağlantıları -->
 <p align="center">
-  <a href="https://lab.legaltechtr.com/links" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_EKOSİSTEM-Tüm_Bağlantılar-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ekosistem" />
-  </a>
-  <a href="https://linkedin.com/in/halil-ibrahim-ordulu-8180631b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Halil_İbrahim_Ordulu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Girisimcibey007" target="_blank">
-    <img src="https://img.shields.io/badge/X-@Girisimcibey007-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://youtube.com/@legaltechturkiye" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-LegalTech_Türkiye-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  <a href="https://lab.legaltechtr.com/links"><b>Ekosistem & Tüm Bağlantılar</b></a> •
+  <a href="https://lab.legaltechtr.com/"><b>LegalTech LAB</b></a> •
+  <a href="https://www.legaltechtr.com/"><b>LTL Gündemi</b></a> •
+  <a href="https://linkedin.com/in/halil-ibrahim-ordulu-8180631b7"><b>LinkedIn</b></a> •
+  <a href="https://x.com/Girisimcibey007"><b>X</b></a> •
+  <a href="https://youtube.com/@legaltechturkiye"><b>YouTube</b></a>
 </p>
 
 </div>
@@ -39,7 +25,7 @@ Bireysel avukatlar ve butik ofisler dijitalleşmesi gerektiğini biliyor. Ama ne
 
 Bu boşluğu doldurmak için **LegalTech Türkiye LAB**'ı kurdum. Tek başına çalışan bir avukat ya da küçük bir ofis yönetiyor olabilirsin. Nitelikli kurslar, sistematik danışmanlıklar, özelleştirilmiş içerikler ve dinamik bir sistemle kendi hızında bilinçli dijital dönüşüm yolculuğunu başlatabilmen için buradayız. Kendi kararlarını alabilecek dijital yetkinliğe ulaşmanda bağımsız, objektif ve tamamen üyelerinin gücüyle büyüyen bir pusula görevi görüyoruz.
 
-Kendi dijital yolculuğuna nereden başlayacağını bilmiyorsan, başlamak için doğru yer burada. [LTL Gündemi](https://www.legaltechtr.com/)'ne ücretsiz abone olabilir, dijital dönüşüm yolculuğuna [LegalTech Türkiye LAB](https://lab.legaltechtr.com/)'da başlayabilirsin.
+Kendi dijital yolculuğuna nereden başlayacağını bilmiyorsan, başlamak için doğru yer burası. [LTL Gündemi](https://www.legaltechtr.com/)'ne ücretsiz abone olabilir, dijital dönüşüm yolculuğuna [LegalTech Türkiye LAB](https://lab.legaltechtr.com/)'da başlayabilirsin.
 
 ---
 
@@ -68,7 +54,7 @@ Kendi dijital yolculuğuna nereden başlayacağını bilmiyorsan, başlamak içi
     </td>
     <td width="50%" valign="top">
       <h4>🧠 Kişisel Bellek & Sistem Tasarımı</h4>
-      <p><b>Hermes</b> bellek sarayı metodolojisi, proje arşivleri ve kurucu dokümantasyonlarıyla entegre çalışan; üretilen tüm çıktıların LAB ve LTL ekosistemine beslendiği bilgi yönetimi mimarisi.</p>
+      <p><b>Hermes</b> bellek sarayı metodolojisi, proje arşivleri ve kurucu dokümantasyonlarıyla entegre çalışan; üretilen tüm çıktıların LAB ve LTL ekosistemine aktarıldığı bilgi yönetimi mimarisi.</p>
       <sub>Hermes Core • Obsidian • Proje Dosyaları</sub>
     </td>
   </tr>
@@ -78,15 +64,11 @@ Kendi dijital yolculuğuna nereden başlayacağını bilmiyorsan, başlamak içi
 
 ### 🛠️ Altyapı, Bellek & Geliştirme Kültürü
 
-<div align="left">
-
 | Katman | Araçlar & Mimari Tercihler |
 | :--- | :--- |
 | **Yapay Zeka & Ajan Sistemleri** | `Claude Code` `OpenAI API` `Agent Client Protocols` `Cursor` `Zed` |
 | **Sistem & Dağıtım Altyapısı** | `Cloudflare Workers/Pages` `Coolify` `Hetzner` `Docker` `Resend` |
 | **Bilgi Mimarisi & Dağıtım** | `Hermes (Memory Palace)` `Ghost CMS` `Obsidian` |
-
-</div>
 
 ---
 
@@ -94,8 +76,6 @@ Kendi dijital yolculuğuna nereden başlayacağını bilmiyorsan, başlamak içi
 <summary>🌐 <b>Read in English (Executive Summary)</b></summary>
 
 <br/>
-
-### 🏛️ Founder & Digital Transformation Strategist
 
 I guide solo practitioners and boutique law firms through conscious, step-by-step digital transformation at **LegalTech Türkiye LAB**.
 
@@ -107,7 +87,7 @@ I guide solo practitioners and boutique law firms through conscious, step-by-ste
 
 ---
 
-### 📊 GitHub & Üretim İstatistikleri
+### 📊 Aktivite & Üretim
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Titanhero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="145" alt="Titanhero Stats" />
