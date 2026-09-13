@@ -5,6 +5,10 @@
 
 <br/><br/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=LegalTech+T%C3%BCrkiye+LAB;Hukukta+Bilin%C3%A7li+Dijital+D%C3%B6n%C3%BC%C5%9F%C3%BCm+Rehberi;Sistem+Mimarileri+%26+Ajan+Otomasyonlar%C4%B1" alt="Typing SVG" />
+</p>
+
 <a href="https://lab.legaltechtr.com/links" target="_blank">
   <b>🌐 Ekosistem & Tüm Bağlantılar →</b>
 </a>
