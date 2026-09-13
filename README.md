@@ -5,19 +5,11 @@
 
 <br/><br/>
 
-<!-- Sade Metin Bağlantıları -->
-<p align="center">
-  <a href="https://lab.legaltechtr.com/links"><b>Ekosistem & Tüm Bağlantılar</b></a> •
-  <a href="https://lab.legaltechtr.com/"><b>LegalTech LAB</b></a> •
-  <a href="https://www.legaltechtr.com/"><b>LTL Gündemi</b></a> •
-  <a href="https://linkedin.com/in/halil-ibrahim-ordulu-8180631b7"><b>LinkedIn</b></a> •
-  <a href="https://x.com/Girisimcibey007"><b>X</b></a> •
-  <a href="https://youtube.com/@legaltechturkiye"><b>YouTube</b></a>
-</p>
+<a href="https://lab.legaltechtr.com/links" target="_blank">
+  <b>🌐 Ekosistem & Tüm Bağlantılar →</b>
+</a>
 
 </div>
-
----
 
 ### 📖 Hakkında
 
