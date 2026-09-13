@@ -1,0 +1,69 @@
+<svg width="100%" height="90" viewBox="0 0 1000 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .grid-pattern {
+      stroke: #1e293b;
+      stroke-width: 0.75;
+      stroke-opacity: 0.6;
+    }
+    .accent-line {
+      stroke: #38bdf8;
+      stroke-width: 1.5;
+      stroke-dasharray: 8 12;
+      animation: dashMove 12s linear infinite;
+    }
+    .node-pulse {
+      animation: pulseGlow 3s ease-in-out infinite alternate;
+    }
+    .node-pulse-delay {
+      animation: pulseGlow 3s ease-in-out infinite alternate;
+      animation-delay: 1.5s;
+    }
+    @keyframes dashMove {
+      to {
+        stroke-dashoffset: -200;
+      }
+    }
+    @keyframes pulseGlow {
+      0% {
+        r: 3;
+        fill: #0284c7;
+        opacity: 0.4;
+      }
+      100% {
+        r: 5.5;
+        fill: #38bdf8;
+        opacity: 1;
+        filter: drop-shadow(0 0 4px #38bdf8);
+      }
+    }
+  </style>
+
+  <defs>
+    <!-- Mimari Izgara Deseni -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" class="grid-pattern" fill="none" />
+    </pattern>
+    <!-- Kenarları yumuşatan karartma maskesi -->
+    <linearGradient id="fadeMask" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1" />
+      <stop offset="15%" stop-color="#0d1117" stop-opacity="0" />
+      <stop offset="85%" stop-color="#0d1117" stop-opacity="0" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Arka Plan Izgarası -->
+  <rect width="1000" height="90" fill="url(#grid)" />
+
+  <!-- Dinamik Akış Çizgisi (Agent Pipeline Akışı) -->
+  <path d="M 50 45 L 300 45 L 330 15 L 670 15 L 700 75 L 950 75" class="accent-line" fill="none" />
+
+  <!-- Düğümler (Nodes) -->
+  <circle cx="300" cy="45" class="node-pulse" />
+  <circle cx="330" cy="15" class="node-pulse-delay" />
+  <circle cx="670" cy="15" class="node-pulse" />
+  <circle cx="700" cy="75" class="node-pulse-delay" />
+
+  <!-- Kenar Yumuşatma Katmanı -->
+  <rect width="1000" height="90" fill="url(#fadeMask)" />
+</svg>
