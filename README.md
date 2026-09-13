@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Üst Banner Görseli -->
-<img src="./TitanHero%20-%20Systems%20for%20the%20Digital%20Era%20of%20Law.jpg" alt="TitanHero - Systems for the Digital Era of Law.jpg" width="100%" />
-
+<img src="./banner-v2.jpg" alt="TitanHero - Systems for the Digital Era of Law" width="100%" />
 <br/><br/>
 
 <!-- LTL Cyan Daktilo Animasyonu -->
