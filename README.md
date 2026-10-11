@@ -96,10 +96,3 @@ I guide solo practitioners and boutique law firms through conscious, step-by-ste
 </details>
 
 ---
-
-### 📊 GitHub & Üretim İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Titanhero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="145" alt="Titanhero Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titanhero&layout=compact&theme=tokyonight&hide_border=true" height="145" alt="Titanhero Languages" />
-</div>
